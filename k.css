@@ -45,7 +45,7 @@ html,body
 	vertical-align: middle;
 }
 
-.landing-text h1
+.landing-text h2
 {
 	color: white;
 	font-weight:1000;
@@ -54,7 +54,7 @@ html,body
 	font-family: 'Shadows Into Light', cursive;
 }
 
-.landing-text h3
+.landing-text h4
 {
 	color: white;
 	font-weight:900;
